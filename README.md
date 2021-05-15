@@ -20,6 +20,7 @@ The project involved  :
 -comparing defferent type of controlor : LQR VS PID 
 -Developping a #PID controller and tuning its parameters
 
+
 This project, was a good opportunity for us to apply the theory we've been learning throughout this academic year , I want to thank my teammates for their support and perseverance .
 
 
