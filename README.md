@@ -13,12 +13,12 @@ This principle is widely used in modern systems such as gymnastic robot .
 
 The project involved  :
 
--making a mathematical model of the system
--hardware design with solidworks
--Developping a LabVIEW interface for data acquisition and control
--communication design using LINX package for interfacing between arduino and labVEIW
--comparing defferent type of controlor : LQR VS PID 
--Developping a #PID controller and tuning its parameters
+* making a mathematical model of the system
+* hardware design with solidworks
+* Developping a LabVIEW interface for data acquisition and control
+* communication design using LINX package for interfacing between arduino and labVEIW
+* comparing defferent type of controlor : LQR VS PID 
+* Developping a #PID controller and tuning its parameters
 
 
 This project, was a good opportunity for us to apply the theory we've been learning throughout this academic year , I want to thank my teammates for their support and perseverance .
